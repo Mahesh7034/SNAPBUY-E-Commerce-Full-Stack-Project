@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SNAPBUY Logo](https://via.placeholder.com/150x150?text=SNAPBUY)
+![SNAPBUY Logo]([https://via.placeholder.com/150x150?text=SNAPBUY](https://www.canva.com/design/DAG4ab6-meg/-CW38RuWgz5I2POgwHwX9w/view))
 
 ### A Modern, Feature-Rich E-Commerce Platform
 
