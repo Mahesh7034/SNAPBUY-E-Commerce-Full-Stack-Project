@@ -12,7 +12,8 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "http://localhost:5173")
+//@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://snapbuy-frontend.onrender.com")
 public class OrderController {
     @Autowired
     private OrderService orderService;
